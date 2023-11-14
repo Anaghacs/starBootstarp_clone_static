@@ -191,3 +191,60 @@ nav :hover {
 .projects button:hover{
     background-color: rgb(226, 222, 222);
 }
+
+.form{
+    height: 90vh;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+}
+.form h1{
+    padding-top: 100px;
+    padding-left: 550px;
+}
+.divider{
+    height: 0.2rem;
+    max-width: 3.25rem;
+    margin: 1.6rem auto;
+    background-color: #f94412;
+    opacity: 1;
+}
+.formdetails{
+    padding: 20px;
+    text-align: center;
+    color: gray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* font-size: 20px; */
+}
+.submits{
+    padding-top: 50px;
+    padding-left: 450px;}
+.input{
+    padding: 20px;
+    height: 20px;
+    width: 480px;
+    font-size: larger;
+}
+.form button{
+    background-color: rgb(233, 86, 86);
+    color: white;
+    font-size: 15px;
+    padding: 10px 10px;
+    border: none;
+    height: 60px;
+    width: 300px;
+    border-radius: 30px;
+    margin: 50px 100px;
+}
+.footer{
+    height: 40vh;
+    opacity: 1;
+    background-color: rgb(241, 235, 235);
+    align-items: center;
+    justify-content: center;
+    color: gray;
+}
+.footer p{
+ padding-left: 600px;
+padding-top: 100px;
+}
